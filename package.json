@@ -1,6 +1,6 @@
 {
   "name": "hubot-google-news",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display the google news",
   "main": "index.js",
   "scripts": {
