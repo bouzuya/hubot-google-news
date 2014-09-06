@@ -2,6 +2,8 @@
 
 A Hubot script that display the google news.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140907/20140907075618.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-google-news.git
